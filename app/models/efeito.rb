@@ -1,0 +1,2 @@
+class Efeito < ApplicationRecord
+end

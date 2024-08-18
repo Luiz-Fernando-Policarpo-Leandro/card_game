@@ -1,0 +1,17 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  nome: MyString
+  descricao: MyText
+  vida: 1
+  dano: 1
+  efeito: one
+  tipo: one
+
+two:
+  nome: MyString
+  descricao: MyText
+  vida: 1
+  dano: 1
+  efeito: two
+  tipo: two
