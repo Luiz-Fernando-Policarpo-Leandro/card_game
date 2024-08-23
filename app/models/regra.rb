@@ -1,0 +1,2 @@
+class Regra < ApplicationRecord
+end

@@ -1,0 +1,19 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  nome: MyString
+  descricao: MyText
+  nivel: 1
+  dano: 1
+  vida: 1
+  tipo: one
+  efeito: false
+
+two:
+  nome: MyString
+  descricao: MyText
+  nivel: 1
+  dano: 1
+  vida: 1
+  tipo: two
+  efeito: false
